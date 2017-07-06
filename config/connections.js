@@ -45,7 +45,7 @@ module.exports.connections = {
         host: 'jondb.czm2nb0uwcar.ap-southeast-1.rds.amazonaws.com',
         user: 'jon', //optional
         password: 'weareone', //optional
-        database: 'demo' //optional
+        database: 'sails_db' //optional
     },
 
     /***************************************************************************
